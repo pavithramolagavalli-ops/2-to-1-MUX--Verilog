@@ -17,7 +17,7 @@ Implemented 2:1 Multiplexer in Verilog HDL. Output `y = a` when `sel=0`, else `y
 ## 📈 Simulation Waveform
 Verified on EDA Playground. Output `y` follows `a` when `sel=0`, and `b` when `sel=1`.
 
-![Waveform](WAVEFORM.png)
+![Waveform](WAVE%20FORM.png)
 
 ## Simulation
 Verified using testbench. Can be run on EDA Playground.
